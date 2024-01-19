@@ -1,0 +1,51 @@
+
+body{
+    background-color:aliceblue;
+    color:black;
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+}
+
+
+/*---------------------------------------*/
+
+.icon{
+    height: 15px;
+    width: 15px;
+    
+}
+
+/*------------------------------------------------*/
+
+#personaldata{
+    background-color: rgb(64, 63, 143);
+    border-radius: 25px;
+    border: 5px solid black;
+    margin: 30px;
+    padding: 10px;
+}
+
+#experience{
+    background-color: rgb(69, 116, 156);
+    border-radius: 25px;
+    border: 5px solid black;
+    margin: 30px;
+    padding: 15px;
+}
+#hobbies{
+    background-color: rgb(69, 116, 156);
+    border-radius: 25px;
+    border: 5px solid black;
+    margin: 30px;
+    padding: 15px;
+
+}
+
+
+
+
+
+
